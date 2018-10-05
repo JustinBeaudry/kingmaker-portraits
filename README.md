@@ -3,4 +3,5 @@
 Issue tracking and Feature Requests for http://kingmaker-portraits.com
 
 [Report a Bug](https://github.com/JustinBeaudry/kingmaker-portraits/issues/new?template=Bug_report.md)
+<br/>
 [Request a Feature](https://github.com/JustinBeaudry/kingmaker-portraits/issues/new?template=Feature_request.md)
